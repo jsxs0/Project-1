@@ -1,6 +1,7 @@
 ## Creating ChatBot
 
-You can use the [editor on GitHub](https://github.com/jsxs0/Project-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+What is a Chatbot?
+A chatbot is a piece of software that conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, although as of 2019, they are far short of being able to pass the Turing test.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
