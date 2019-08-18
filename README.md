@@ -9,7 +9,6 @@ Or simply,chatbot is an artificial intelligence (AI) program that simulates inte
 
 Import os, chatterbot. From chatterbot, import ChatBot, ListTrainer, ChatterBotCorpusTrainer, and you're pretty much done.
 
-```markdown
 `import os 
 #import chatterbot
 from chatterbot import ChatBot
