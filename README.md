@@ -15,21 +15,8 @@ import os
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 from chatterbot.trainers import ChatterBotCorpusTrainer
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 ```
-
-[Link](url) and ![Image](https://pbs.twimg.com/media/DceA9yzWAAAk64X.jpg:large)
+[Image](https://pbs.twimg.com/media/DceA9yzWAAAk64X.jpg:large)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
