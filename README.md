@@ -5,12 +5,16 @@ A chatbot is a piece of software that conducts a conversation via auditory or te
 
 Or simply,chatbot is an artificial intelligence (AI) program that simulates interactive human conversation by using key pre-calculated user phrases and auditory or text-based signals.
 
-### Markdown
+### What do I need to know?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Import os, chatterbot. From chatterbot, import ChatBot, ListTrainer, ChatterBotCorpusTrainer, and you're pretty much done.
 
 ```markdown
-Syntax highlighted code block
+import os 
+#import chatterbot
+from chatterbot import ChatBot
+from chatterbot.trainers import ListTrainer
+from chatterbot.trainers import ChatterBotCorpusTrainer
 
 # Header 1
 ## Header 2
