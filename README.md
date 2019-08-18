@@ -27,7 +27,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer`
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://pbs.twimg.com/media/DceA9yzWAAAk64X.jpg)
+[Link](url) and ![Image](https://aws1.discourse-cdn.com/business6/uploads/github_atom/optimized/3X/1/8/1855d771ace8a2350c436ddf7f9145af608426c3_2_690x402.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
