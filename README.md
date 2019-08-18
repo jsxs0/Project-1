@@ -16,7 +16,7 @@ from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 from chatterbot.trainers import ChatterBotCorpusTrainer
 ```
-[Image](https://pbs.twimg.com/media/DceA9yzWAAAk64X.jpg:large)
+![Image](https://pbs.twimg.com/media/DceA9yzWAAAk64X.jpg:large)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
