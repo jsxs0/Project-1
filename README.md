@@ -18,6 +18,27 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 ```
 ![Image](https://pbs.twimg.com/media/DceA9yzWAAAk64X.jpg:large)
 
+# Okay, what next?
+
+Name your bot! I'll name it Candid.
+
+```markdown
+bot = ChatBot("Candid")
+```
+
+Next off, train it!
+
+```markdown
+trainer = ChatterBotCorpusTrainer(bot)
+
+trainer.train(
+    "chatterbot.corpus.english"
+)
+
+#Train the chatbot based on the english corpus
+trainer.train("chatterbot.corpus.english")
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
