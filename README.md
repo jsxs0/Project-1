@@ -1,11 +1,11 @@
-## Creating ChatBot
+# Creating ChatBot
 
 What is a Chatbot?
 A chatbot is a piece of software that conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, although as of 2019, they are far short of being able to pass the Turing test.
 
 Or simply,chatbot is an artificial intelligence (AI) program that simulates interactive human conversation by using key pre-calculated user phrases and auditory or text-based signals.
 
-### What do I need to know?
+# What do I need to know?
 
 Import os, chatterbot. From chatterbot, import ChatBot, ListTrainer, ChatterBotCorpusTrainer, and you're pretty much done.
 
