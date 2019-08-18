@@ -38,6 +38,18 @@ trainer.train(
 #Train the chatbot based on the english corpus
 trainer.train("chatterbot.corpus.english")
 ```
+#Let's start coding!
+```markdown
+while True:
+    message = input("You: ")
+    if message.strip().lower() != "bye":
+      reply = bot.get_response(message)
+      print("Candid: ",reply)
+    elif message.strip().lower() =="bye":
+      print("Candid: ",GoodBye!)
+      break
+```
+#And, you're done!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
