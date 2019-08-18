@@ -38,7 +38,9 @@ trainer.train(
 #Train the chatbot based on the english corpus
 trainer.train("chatterbot.corpus.english")
 ```
+
 # Let's start coding!
+
 ```markdown
 while True:
     message = input("You: ")
@@ -49,14 +51,13 @@ while True:
       print("Candid: ",GoodBye!)
       break
 ```
+
 # And, you're done!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Just follow these steps, and congrats! You've created your first chatbot!
 
-### Jekyll Themes
+For more details see [my account](https://github.com/jsxs0).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsxs0/Project-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Support or Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the code? [Contact me](https://github.com/jsxs0) and I’ll help you sort it out.
